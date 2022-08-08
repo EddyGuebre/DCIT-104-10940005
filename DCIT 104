@@ -1,0 +1,12 @@
+Write a program that produces the sum of all prime numbers less than a given number
+
+
+bool    is Prime( int num)
+
+       < for (int=2; i<num; i++)
+
+         <if (num%i==0) 
+            <return false;>
+         > return true;
+
+       >sum i
